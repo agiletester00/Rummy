@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NetChess", "NetChess.vcproj", "{978A753E-D9A3-44E6-8E7F-242DB3FD32AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{978A753E-D9A3-44E6-8E7F-242DB3FD32AA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{978A753E-D9A3-44E6-8E7F-242DB3FD32AA}.Debug|Win32.Build.0 = Debug|Win32
+		{978A753E-D9A3-44E6-8E7F-242DB3FD32AA}.Release|Win32.ActiveCfg = Release|Win32
+		{978A753E-D9A3-44E6-8E7F-242DB3FD32AA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
